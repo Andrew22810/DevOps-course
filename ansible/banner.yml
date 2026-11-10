@@ -7,7 +7,7 @@
 
   vars:
     ansible_python_interpreter: "{{ ansible_playbook_python }}"
-    workshop_message: "Group: AAA | Student: student-A | Banner version: 2"
+    workshop_message: "Group: AAA | Student: student-A | Banner version: 3 | K4-05 defense"
 
   tasks:
     - name: Create workshop banner
